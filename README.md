@@ -7,7 +7,7 @@ Este curso fomenta en el estudiante habilidades generales para la resolución de
 ## Información
 
 - **Clases:** K 10:00 a 11:50, V 9:00 a 11:50 en Zoom.
-- **Consulta:** K 18:30 a 21:00 en Zoom.
+- **Consulta:** K 17:00 a 19:30 en Zoom.
 - **Comuniación:** [Mediación virtual](https://mv1.mediacionvirtual.ucr.ac.cr/course/view.php?id=22549) y Telegram.
 - **Asignaciones:** [Mediación virtual](https://mv1.mediacionvirtual.ucr.ac.cr/course/view.php?id=22549).
 - **Grupo:** 7
