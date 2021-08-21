@@ -18,8 +18,8 @@ Debajo viene el cronograma preliminar de los temas para el segundo semestre del 
 
 | Semanas        		| Tema 	|  |
 | :------------- 	|:--------|:-------- |
-1 | Bases de la programación | 
-1 | Resolución de problemas | 
+1 | Bases de la programación | [presentación](https://mv1.mediacionvirtual.ucr.ac.cr/pluginfile.php/1768154/mod_folder/content/0/01-Intro-progra.pdf)
+1 | Resolución de problemas | [presentación](https://mv1.mediacionvirtual.ucr.ac.cr/pluginfile.php/1768154/mod_folder/content/0/02-Resolucion-problemas.pdf)
 2 | Variables y tipos de datos | 
 2 | Operadores | 
 2 | Entrada y sálida | 
