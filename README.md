@@ -22,7 +22,7 @@ Debajo viene el cronograma preliminar de los temas para el segundo semestre del 
 1 | Resolución de problemas | [presentación](https://mv1.mediacionvirtual.ucr.ac.cr/pluginfile.php/1768154/mod_folder/content/0/02-Resolucion-problemas.pdf)
 2 | Variables y tipos de datos | [presentación](https://mv1.mediacionvirtual.ucr.ac.cr/pluginfile.php/1768154/mod_folder/content/0/03-Variables.pdf?forcedownload=1) • [código](./src/variables)
 2 | Operadores | [presentación](https://mv1.mediacionvirtual.ucr.ac.cr/pluginfile.php/1768154/mod_folder/content/0/04-Operadores.pdf?forcedownload=1) • [código](./src/variables)
-2 | Entrada y sálida | 
+2 | Entrada y sálida | [presentación](https://mv1.mediacionvirtual.ucr.ac.cr/pluginfile.php/1768154/mod_folder/content/0/05-IO.pdf?forcedownload=1) • [código](./src/IO)
 3 | Métodos | 
 3-4 | Programación orientada a objetos | 
 5 | Condicionales | 
