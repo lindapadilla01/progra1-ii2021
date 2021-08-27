@@ -24,6 +24,8 @@ public class Main {
             String newRow = String.join(";", row.split(","));
             newFile.println(newRow);
         }
+        //Se cierran los archivos usados
+        file.close();
         newFile.close();
     }
 }
