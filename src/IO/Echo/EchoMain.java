@@ -19,6 +19,7 @@ public class EchoMain {
         //   //Obtiene el siguiente flotante
         //   float flotante = sc.nextFloat();
         System.out.println(texto);
+        sc.close();
 
     }  
 }
